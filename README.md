@@ -13,7 +13,7 @@
 
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-<h2> SKills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<h2> SKills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  </h2>
 
 
 <p align="center"> 
@@ -104,9 +104,15 @@
   </a>
 </p>
 <br></br>
-<h2> Connect with me : <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
+
+### Connect With Me :
 
 ---
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="50" height="50" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-handshake">
+  <path d="M9.5 7.5a2.12 2.12 0 0 1 3 0l1 1 3-3a2.12 2.12 0 0 1 3 3l-3 3 1 1a2.12 2.12 0 0 1 0 3l-3 3a2.12 2.12 0 0 1-3 0l-1-1-3 3a2.12 2.12 0 0 1-3-3l3-3-1-1a2.12 2.12 0 0 1 0-3z"></path>
+</svg>
+
 
 <p align="left">
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/naveen-ekanayake-8b9b60309/" target="blank"><img align="center"
@@ -121,11 +127,31 @@
 </p>
 <br></br>
 
+###
+
 <h3 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">My Github Stats: </h3>
+
+---
+
 <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=naveenekanayake&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="GitHub stats">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenekanayake&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Top Languages">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=naveenekanayake&theme=darcula&hide_border=true&background=FFFFFF00" alt="Streak Stats">
   <br>
   <br>
+</p>
+<br></br>
+
+<h2 style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  My Contribution 
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="52px" alt="professional-icon">
+    <br></br>  
+</h2>
+
+<p align="center">
+  <img 
+    src="https://github.com/naveenekanayake/naveenekanayake/blob/output/github-snake-dark.svg" 
+    alt="snake gif" 
+    style="max-width: 100%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);"
+  >
 </p>
