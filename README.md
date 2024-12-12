@@ -136,7 +136,8 @@
 <p align="center">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=naveenekanayake&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="GitHub stats">
   <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naveenekanayake&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php" alt="Top Languages">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=naveenekanayake&theme=darcula&hide_border=true&background=FFFFFF00" alt="Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=naveenekanayake&theme=darcula&hide_border=true&background=FFFFFF00
+" alt="Streak Stats">
   <br>
   <br>
 </p>
