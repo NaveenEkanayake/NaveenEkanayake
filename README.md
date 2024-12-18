@@ -5,7 +5,7 @@
 
 <div align="center" style="border: px solid #000000;>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Software+Engineering+Student+AT+SLIIT;MERN+STACK+Developer;Web+Designer;web+developer;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=&center=true&vCenter=true&width=900&height=110&lines=Software+Engineering+Student+AT+SLIIT+CITY+UNI;MERN+STACK+Developer;MEAN+STACK+Developer:Web+Designer;web+developer;)](https://git.io/typing-svg)
 </div>
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
